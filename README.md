@@ -1,6 +1,6 @@
 # bareBlog (minimal file-based Flask blog engine)
 
-Lightweight Flask blog engine with file-backed posts, admin login, and Markdown support for new posts. Include import xml capabilities from wordpress.
+Lightweight Flask blog engine with file-backed posts, admin login, and Markdown support for new posts, including a xml import script from wp. No db, no trackers, only the bare minimum to run.
 
 ## Quick start
 

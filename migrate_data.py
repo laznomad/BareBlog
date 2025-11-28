@@ -3,7 +3,7 @@ One-time migration helper to upgrade an existing data/posts.json
 to include pages (e.g., About) and nav links settings.
 
 Usage:
-    python migrate_data.py 
+    python migrate_data.py xxxx.xml
 """
 
 import json
